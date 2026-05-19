@@ -50,3 +50,10 @@ build/
 
 # Pipeline output files
 .claude_output_*.json
+
+# Node
+node_modules/
+
+# Debug artifacts
+check.txt
+.continues-handoff.md
