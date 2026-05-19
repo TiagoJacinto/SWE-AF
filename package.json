@@ -1,6 +1,10 @@
 {
 	"dependencies": {
-		"zod": "^3.23.8"
+		"@agentfield/sdk": "^0.1.84",
+		"@hono/node-server": "^2.0.3",
+		"dotenv": "^17.4.2",
+		"hono": "^4.12.21",
+		"zod": "^3.25.76"
 	},
 	"devDependencies": {
 		"@types/bun": "latest"
